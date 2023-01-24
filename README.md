@@ -9,3 +9,5 @@ Get 2048 in one run.
 
 # What was used?
 - Java Script
+- HTML
+- CSS
